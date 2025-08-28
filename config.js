@@ -1,0 +1,23 @@
+export const nameBand = 'ELVIS PRESLEY ';
+export const nameSongs = [
+	"CAN'T HELP FALLING IN LOVE", /*1*/
+	"MY WAY", /*2*/
+	"SUSPICIOUS MINDS", /*3*/
+	"BURNING LOVE", /*4*/
+	"JAILHOUSE ROCK", /*5*/
+	"IF I CAN DREAM", /*6*/
+	"BLUE CHRISTMAS", /*7*/
+	"DEVIL IN DISGUISE", /*8*/
+	"A LITTLE LESS CONVERSATION", /*9*/
+	"HOUND DOG", /*10*/
+	"AN AMERICAN TRILOGY", /*11*/
+	"HEARTBREAK HOTEL", /*12*/
+	"IN THE GHETTO", /*13*/
+	"IT'S NOW OR NEVER", /*14*/
+	"BABY, WHAT YOU WANT ME TO DO", /*15*/
+	"RETURN TO SENDER", /*16*/
+	"YOU GAVE ME A MOUNTAIN", /*17*/
+	"ALL SHOOK UP", /*18*/
+	"WHERE NO ONE STANDS ALONE", /*19*/
+	"THE WONDER OF YOU", /*20*/
+]
